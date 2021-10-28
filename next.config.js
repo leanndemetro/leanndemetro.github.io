@@ -4,5 +4,4 @@ module.exports = {
   // Use the CDN in production and localhost for development.
   assetPrefix: isProd ? 'https://cdn.statically.io/gh/leanndemetro/leanndemetro/githubactions' : '',
 
-  reactStrictMode: true,
 }
